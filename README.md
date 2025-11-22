@@ -42,6 +42,7 @@ output. The small circle represents inversion. Y= A⊕B
 5. For different input combinations generate the timing diagram.
 # PROGRAM
 Program for logic gates and verify its truth table in quartus using Verilog programming
+```
 module Gate_1 (
     input  wire a,     
     input  wire b,    
@@ -63,6 +64,7 @@ module Gate_1 (
     assign xnor_out = ~(a ^ b);   
 
 endmodule
+```
 
 # Developed by:BUSHPIKA C
 # RegisterNumber:25007434
