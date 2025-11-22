@@ -73,7 +73,8 @@ endmodule
 Logic symbol &amp; Truthtable
 
 # RTL realization Output:
-RTL
+<img width="1917" height="1079" alt="Screenshot 2025-11-14 094506" src="https://github.com/user-attachments/assets/599bc8d1-80c1-4176-88d8-f2d06b2e5345" />
+
 # Result: 
 Thus, the truth table of logic gates in Quartus II using Verilog programming is studied and
 verified.
